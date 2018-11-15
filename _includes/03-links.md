@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Meghan's Github](https://github.com/meghanduprey)  
+[Meghan's LinkedIn](https://www.linkedin.com/in/meghanduprey/)
