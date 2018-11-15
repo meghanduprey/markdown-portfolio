@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## My Favorite Things
+* My dogs
+  * Moose
+  * Nugget
+* Coffee
+* Figuring new things out
+* Working/playing in my yard
